@@ -2,6 +2,7 @@
 
 int main(viod){
     int ascii;
+    
     printf("请输入ascii码：");
     scanf("%d", &ascii);
     printf("%c\n",ascii);
